@@ -2,11 +2,11 @@
     "backgrounds": [
         {
             "id": "com.renaudbuisine.ygoduellab.background.yummy",
-            "thumbnail": "https://github.com/renaudbuisine/ygoduellabshop/blame/main/products/yummy/thumbnail.jpg?raw=true"
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/thumbnail.jpg"
         },
         {
             "id": "com.renaudbuisine.ygoduellab.background.dracotail",
-            "thumbnail": "https://github.com/renaudbuisine/ygoduellabshop/blame/main/products/dracotail/thumbnail.jpg?raw=true"
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/thumbnail.jpg"
         }
     ],
     "sleeves": []
