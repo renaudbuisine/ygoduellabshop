@@ -1,4 +1,13 @@
 {
-    "backgrounds": [],
+    "backgrounds": [
+        {
+            "id": "com.renaudbuisine.ygoduellab.background.yummy",
+            "thumbnail": "https://github.com/renaudbuisine/ygoduellabshop/blame/main/products/yummy/thumbnail?raw=true"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.background.dracotail",
+            "thumbnail": "https://github.com/renaudbuisine/ygoduellabshop/blame/main/products/dracotail/thumbnail?raw=true"
+        }
+    ],
     "sleeves": []
 }
