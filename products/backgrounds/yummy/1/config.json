@@ -3,18 +3,18 @@
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/1/images/background_0.png",
     "position": { "x": 0, "y": 0 },
     "zPosition": 3,
-    "amplitude": 60
+    "amplitude": 100
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/1/images/background_1.png",
     "position": { "x": 0, "y": 0 },
     "zPosition": 2,
-    "amplitude": 40
+    "amplitude": 60
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/1/images/background_2.png",
     "position": { "x": 0, "y": 0 },
     "zPosition": 1,
-    "amplitude": 10
+    "amplitude": 20
   }
 ]
