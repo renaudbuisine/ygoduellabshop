@@ -2,16 +2,19 @@
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/1/images/background_0.png",
     "position": { "x": 0, "y": 0 },
-    "zPosition": 3
+    "zPosition": 3,
+    "amplitude": 80
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/1/images/background_1.png",
     "position": { "x": 0, "y": 0 },
-    "zPosition": 2
+    "zPosition": 2,
+    "amplitude": 50
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/yummy/1/images/background_2.png",
     "position": { "x": 0, "y": 0 },
-    "zPosition": 1
+    "zPosition": 1,
+    "amplitude": 20
   }
 ]
