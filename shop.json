@@ -51,13 +51,13 @@
         },
         {
             "id": "com.renaudbuisine.ygoduellab.sleeve.branded.albaz",
-            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_albaz_small.png",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_albaz_small.png",
             "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_albaz.png"
         },
         {
             "id": "com.renaudbuisine.ygoduellab.sleeve.branded.cartesia",
             "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_cartesia_small.png",
-            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_cartesia.png"
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_cartesia.png"
         }
     ]
 }
