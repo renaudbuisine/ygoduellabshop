@@ -14,8 +14,40 @@
     "sleeves": [
         {
             "id": "com.renaudbuisine.ygoduellab.sleeve.yummy.cupsy",
-            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/mignon.png",
-            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/mignon.png"
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_cupsy_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_cupsy.png"
+        },
+        
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.yummy.cookie",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_cookie_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_cookie.png"
+        },
+        
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.yummy.lolipo",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_lolipo_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_lolipo.png"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.yummy.mashmao",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_mashmao_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/yummy/sleeve_mashmao.png"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.dracotail.faimena",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_faimena_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_faimena.png"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.dracotail.mululu",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_mululu_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_mululu.png"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.dracotail.phryxul",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_phryxul_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/dracotail/sleeve_phryxul.png"
         }
     ]
 }
