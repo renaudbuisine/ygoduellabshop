@@ -7,31 +7,31 @@
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/seal.png",
-    "position": { "x": 684, "y": -323 },
+    "position": { "x": 0, "y": 323 },
     "zPosition": 2,
     "amplitude": 40
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/faimena.png",
-    "position": { "x": 570, "y": -456 },
+    "position": { "x": 570, "y": 456 },
     "zPosition": 3,
     "amplitude": 120
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/phryxul.png",
-    "position": { "x": -587, "y": -432 },
+    "position": { "x": -587, "y": 432 },
     "zPosition": 3,
     "amplitude": 120
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/mululu.png",
-    "position": { "x": 421, "y": 203 },
+    "position": { "x": 421, "y": -203 },
     "zPosition": 4,
     "amplitude": 140
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/lukias.png",
-    "position": { "x": 247, "y": -372 },
+    "position": { "x": -352, "y": -228 },
     "zPosition": 4,
     "amplitude": 140
   }
