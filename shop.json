@@ -58,6 +58,11 @@
             "id": "com.renaudbuisine.ygoduellab.sleeve.branded.cartesia",
             "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_cartesia_small.png",
             "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_cartesia.png"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.sleeve.blueeyes.whitedragon",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_blueeyes_small.png",
+            "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/branded/sleeve_blueeyes.png"
         }
     ]
 }
