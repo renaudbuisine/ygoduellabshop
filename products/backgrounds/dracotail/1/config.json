@@ -13,7 +13,7 @@
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/faimena.png",
-    "position": { "x": -390, "y": -208 },
+    "position": { "x": -390, "y": -408 },
     "zPosition": 3,
     "amplitude": 140
   },
@@ -25,7 +25,7 @@
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/mululu.png",
-    "position": { "x": 313, "y": -447 },
+    "position": { "x": 313, "y": -647 },
     "zPosition": 4,
     "amplitude": 100
   },
