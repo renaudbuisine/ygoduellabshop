@@ -25,13 +25,13 @@
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/mululu.png",
-    "position": { "x": 313, "y": -647 },
+    "position": { "x": 313, "y": -747 },
     "zPosition": 4,
     "amplitude": 100
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/lukias.png",
-    "position": { "x": 531, "y": 28 },
+    "position": { "x": 451, "y": 28 },
     "zPosition": 4,
     "amplitude": 100
   }
