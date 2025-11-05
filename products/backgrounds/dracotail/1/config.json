@@ -15,24 +15,24 @@
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/faimena.png",
     "position": { "x": 570, "y": 456 },
     "zPosition": 3,
-    "amplitude": 120
+    "amplitude": 140
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/phryxul.png",
-    "position": { "x": -487, "y": 432 },
+    "position": { "x": -387, "y": 432 },
     "zPosition": 3,
-    "amplitude": 120
+    "amplitude": 140
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/mululu.png",
     "position": { "x": 421, "y": -203 },
     "zPosition": 4,
-    "amplitude": 140
+    "amplitude": 100
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/lukias.png",
     "position": { "x": -352, "y": -228 },
     "zPosition": 4,
-    "amplitude": 140
+    "amplitude": 100
   }
 ]
