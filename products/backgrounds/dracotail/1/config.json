@@ -13,13 +13,13 @@
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/faimena.png",
-    "position": { "x": 480, "y": 506 },
+    "position": { "x": 480, "y": 200 },
     "zPosition": 3,
     "amplitude": 140
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/images/phryxul.png",
-    "position": { "x": -487, "y": 432 },
+    "position": { "x": -487, "y": 500 },
     "zPosition": 3,
     "amplitude": 140
   },
