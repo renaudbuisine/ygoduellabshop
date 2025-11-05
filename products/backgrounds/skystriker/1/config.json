@@ -20,19 +20,19 @@
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/rose.png",
     "position": { "x": 563, "y": -316 },
-    "zPosition": 3,
+    "zPosition": 4,
     "amplitude": 100
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/raye.png",
     "position": { "x": -573, "y": -317 },
-    "zPosition": 4,
+    "zPosition": 5,
     "amplitude": 100
   },
   {
     "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/lower_frieze.png",
     "position": { "x": 0, "y": -850 },
-    "zPosition": 5,
+    "zPosition": 6,
     "amplitude": 140
   }
 ]
