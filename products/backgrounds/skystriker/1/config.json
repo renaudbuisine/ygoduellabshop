@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/background.png",
+    "position": { "x": 0, "y": 0 },
+    "zPosition": 1,
+    "amplitude": 20
+  },
+  {
+    "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/upper_frieze.png",
+    "position": { "x": 0, "y": 897 },
+    "zPosition": 2,
+    "amplitude": 40
+  },
+  {
+    "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/zero.png",
+    "position": { "x": 0, "y": 92 },
+    "zPosition": 3,
+    "amplitude": 60
+  },
+  {
+    "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/rose.png",
+    "position": { "x": 563, "y": -316 },
+    "zPosition": 3,
+    "amplitude": 100
+  },
+  {
+    "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/raye.png",
+    "position": { "x": -573, "y": -317 },
+    "zPosition": 4,
+    "amplitude": 100
+  },
+  {
+    "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/images/lower_frieze.png",
+    "position": { "x": 0, "y": -850 },
+    "zPosition": 5,
+    "amplitude": 140
+  }
+]

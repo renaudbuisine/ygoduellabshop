@@ -9,6 +9,11 @@
             "id": "com.renaudbuisine.ygoduellab.background.dracotail.seal",
             "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/thumbnail.png",
             "content": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/dracotail/1/config.json"
+        },
+        {
+            "id": "com.renaudbuisine.ygoduellab.background.skystriker.zero",
+            "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/thumbnail.png",
+            "content": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/backgrounds/skystriker/1/config.json"
         }
     ],
     "sleeves": [
