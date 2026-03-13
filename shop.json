@@ -21,19 +21,19 @@
             "id": "com.renaudbuisine.ygoduellab.sleeve.kewltune.reco",
             "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/kewltune/sleeve_reco_small.png",
             "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/kewltune/sleeve_reco.png",
-            isNew: true
+            "isNew": true
         },
         {
             "id": "com.renaudbuisine.ygoduellab.sleeve.mitsurugi.habakiri",
             "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/mitsurugi/sleeve_habakiri_small.png",
             "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/mitsurugi/sleeve_habakiri.png",
-            isNew: true
+            "isNew": true
         },
         {
             "id": "com.renaudbuisine.ygoduellab.sleeve.enneacraft.whale",
             "thumbnail": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/enneacraft/sleeve_whale_small.png",
             "image": "https://raw.githubusercontent.com/renaudbuisine/ygoduellabshop/refs/heads/main/products/sleeves/enneacraft/sleeve_whale.png",
-            isNew: true
+            "isNew": true
         },
         {
             "id": "com.renaudbuisine.ygoduellab.sleeve.yummy.cookie",
